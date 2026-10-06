@@ -11,21 +11,16 @@
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-straub/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StraubMatias)
+
 [![Argentina](https://img.shields.io/badge/Puan%2C%20Buenos%20Aires-Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Puan,+Buenos+Aires)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=StraubMatias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+
 
 **Cybersecurity student** at [Universidad del Gran Rosario (UGR)](https://www.ugr.edu.ar/) · IT technician (networks & support)
 
 Cybersecurity student with a professional IT background: PC repair, small-business networks, Windows/Linux, and documentation. I also ship web tools in production—for my degree cohort and for a local business client.
 
----
-
-## :shield: Who I am
+### :shield: Who I am
 
 ```yaml
 name: Matias Straub
