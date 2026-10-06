@@ -1,7 +1,5 @@
 <h3 align="left">Hey, I'm Matias Straub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/></h3>
 
-<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif" alt="matrix" align="right" width="320"/>
-
 [![Linkedin](https://img.shields.io/badge/-matias--straub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-straub/)
 [![GitHub](https://img.shields.io/badge/-StraubMatias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StraubMatias)
 [![Location](https://img.shields.io/badge/Puan%2C%20Buenos%20Aires-Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Puan,+Buenos+Aires)
@@ -50,10 +48,11 @@ Both run on Vercel with login, docs, and ongoing use by real users.
 
 ## :computer: Cyber & infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Fortinet](https://img.shields.io/badge/fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 Identity & access (Active Directory) · Server hardening · Firewalls (Fortinet, MikroTik) · Backups (Veeam, Avamar) · VPN, VLANs, NAT, DNS, DHCP · Technical documentation · Advanced Excel
 
@@ -72,13 +71,6 @@ Identity & access (Active Directory) · Server hardening · Firewalls (Fortinet,
 
 - **UGR** — Tecnicatura Universitaria en Ciberseguridad (2.5-year program, started 2026, in progress)
 - **EEST N°1 “Angela Almeyra”** — Técnico en Informática Profesional y Personal (2017–2023)
-
----
-
-## :bar_chart: GitHub stats
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=StraubMatias&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StraubMatias&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 ---
 
