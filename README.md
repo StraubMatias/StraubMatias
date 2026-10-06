@@ -43,14 +43,12 @@ open_to: cybersecurity · IT support · infrastructure internships & junior role
 | **Code** | [UGR-Tareas](https://github.com/StraubMatias/UGR-Tareas) | [Ohana-Comisiones](https://github.com/StraubMatias/Ohana-Comisiones) |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=dark&perline=5" alt="Project stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="24" height="24" alt="" align="top"/> Next.js &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="24" height="24" alt="" align="top"/> TypeScript &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="" align="top"/> React &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="24" height="24" alt="" align="top"/> Tailwind &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="" align="top"/> Vercel
 </p>
-
-![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 Both run on Vercel with login, docs, and ongoing use by real users.
 
@@ -59,15 +57,13 @@ Both run on Vercel with login, docs, and ongoing use by real users.
 ## :computer: Cyber & infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=4" alt="OS"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="24" height="24" alt="" align="top"/> Linux &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" width="24" height="24" alt="" align="top"/> Windows &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="24" height="24" alt="" align="top"/> Fortinet &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/mikrotik/293239" width="24" height="24" alt="" align="top"/> MikroTik &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="24" height="24" alt="" align="top"/> VMware &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="24" height="24" alt="" align="top"/> OpenVPN
 </p>
-
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Fortinet](https://img.shields.io/badge/fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
 
 Identity & access (Active Directory) · Server hardening · Firewalls (Fortinet, MikroTik) · Backups (Veeam, Avamar) · VPN, VLANs, NAT, DNS, DHCP · Technical documentation · Advanced Excel
 
