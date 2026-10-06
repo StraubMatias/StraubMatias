@@ -1,11 +1,22 @@
 <h3 align="left">Hey, I'm Matias Straub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/></h3>
 
-[![Linkedin](https://img.shields.io/badge/-matias--straub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-straub/)
-[![GitHub](https://img.shields.io/badge/-StraubMatias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StraubMatias)
-[![Location](https://img.shields.io/badge/Puan%2C%20Buenos%20Aires-Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Puan,+Buenos+Aires)
+### Connect
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=StraubMatias&label=Profile%20views&color=0e75b6&style=flat" alt="StraubMatias" />
+  <a href="https://www.linkedin.com/in/matias-straub/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="44" height="44"/>
+  </a>
+  <a href="https://github.com/StraubMatias" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44"/>
+  </a>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-straub/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StraubMatias)
+[![Argentina](https://img.shields.io/badge/Puan%2C%20Buenos%20Aires-Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Puan,+Buenos+Aires)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=StraubMatias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 **Cybersecurity student** at [Universidad del Gran Rosario (UGR)](https://www.ugr.edu.ar/) · IT technician (networks & support)
@@ -36,6 +47,10 @@ open_to: cybersecurity · IT support · infrastructure internships & junior role
 | **Live** | [tareas-ugr.vercel.app](https://tareas-ugr.vercel.app) | [ohana-comisiones.vercel.app](https://ohana-comisiones.vercel.app/) |
 | **Code** | [UGR-Tareas](https://github.com/StraubMatias/UGR-Tareas) | [Ohana-Comisiones](https://github.com/StraubMatias/Ohana-Comisiones) |
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=dark&perline=5" alt="Project stack"/>
+</p>
+
 ![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,11 +63,16 @@ Both run on Vercel with login, docs, and ongoing use by real users.
 
 ## :computer: Cyber & infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=4" alt="OS"/>
+</p>
+
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Fortinet](https://img.shields.io/badge/fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
 
 Identity & access (Active Directory) · Server hardening · Firewalls (Fortinet, MikroTik) · Backups (Veeam, Avamar) · VPN, VLANs, NAT, DNS, DHCP · Technical documentation · Advanced Excel
 
@@ -75,5 +95,14 @@ Identity & access (Active Directory) · Server hardening · Firewalls (Fortinet,
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — reach out on <a href="https://www.linkedin.com/in/matias-straub/">LinkedIn</a>.</i>
+  <a href="https://www.linkedin.com/in/matias-straub/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/StraubMatias">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by — reach out on LinkedIn.</i>
 </p>
